@@ -2,7 +2,7 @@
 POWERFUL BOMBING
 
 ```
-apt upadte
+apt update
 apt upgrade
 apt install python git -y
 pip install requests
